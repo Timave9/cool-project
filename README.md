@@ -1,2 +1,0 @@
-# cool-project
-Project Cool
